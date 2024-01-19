@@ -1,3 +1,17 @@
-.avatar-profile {
+.title-profile {
+    text-align: center;
+    background-color: rgb(0, 157, 255);
+    text-transform: uppercase;
+}
+
+
+.avatar-profile img {
     border-radius: 50%;
+    height: 300px;
+    width: 300px;
+
+}
+
+body {
+    background-color: aliceblue;
 }
